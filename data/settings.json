@@ -1,0 +1,21 @@
+{
+    "store_name": "FarmaCium",
+    "cep": "22710-085",
+    "street": "Rua Itaicaba",
+    "number": "1",
+    "neighborhood": "Curicica",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "phone": "21 97436-2568",
+    "logo_url": "https:\/\/placehold.co\/150",
+    "footer_message": "Bem-vindo à nossa farmácia!",
+    "prescription_mode": "image",
+    "ors_key": "eyJvcmciOiI1YjNjZTM1OTc4NTExMTAwMDFjZjYyNDgiLCJpZCI6IjFjNWUxMWMwOGZiZDQ5Y2ViNTQxOGI2ZDUwMDQwMTM5IiwiaCI6Im11cm11cjY0In0=",
+    "store_lat": "-22.9433396",
+    "store_lng": "-43.3816680",
+    "freight_type": "km",
+    "price_per_km": "2.50",
+    "max_radius": "50",
+    "free_neighborhoods": "Curicica",
+    "fixed_neighborhoods": "{}"
+}

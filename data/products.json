@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Dipirona 500mg",
+        "description": "Analgésico e antitérmico indicado para o alívio de dores e febre. Uso adulto e pediátrico acima de 15 anos.",
+        "price": 5.5,
+        "requires_prescription": false,
+        "category": "Medicamentos",
+        "subcategory": "Analgésicos",
+        "photo": "https://pills-low.com/wp-content/uploads/2021/04/dipirona.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Amoxicilina 875mg",
+        "description": "Antibiótico eficaz no tratamento de infecções bacterianas causadas por germes sensíveis.",
+        "price": 45.9,
+        "requires_prescription": true,
+        "category": "Medicamentos",
+        "subcategory": "Antibióticos",
+        "photo": "https://placehold.co/400x400?text=Amoxicilina"
+    },
+    {
+        "id": 3,
+        "name": "Vitamina C 1g",
+        "description": "Suplemento vitamínico que auxilia no sistema imunológico e possui ação antioxidante.",
+        "price": 12,
+        "requires_prescription": false,
+        "category": "Vitaminas",
+        "subcategory": "Imunidade",
+        "photo": "https://placehold.co/400x400?text=Vitamina+C"
+    },
+    {
+        "id": 4,
+        "name": "Protetor Solar FPS 50",
+        "description": "Proteção alta contra raios UVA/UVB com textura leve e rápida absorção.",
+        "price": 59.9,
+        "requires_prescription": false,
+        "category": "Beleza",
+        "subcategory": "Proteção Solar",
+        "photo": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQspMEBXqhw4tBkbsP6O5VmcULSYiPh6vyowAVU9lM9fuK-k5StvCFiMh-UnBMx4rMfbMrF0zqd7i3v_918-Odei3rNOP-K8lJ7upc1Cdyvh-o1RCREd1ABWC0jaJg-h0VaYTOw_XGASKU&usqp=CAc"
+    },
+    {
+        "id": 5,
+        "name": "Fralda Pampers M 72",
+        "description": "Fraldas descartáveis com canais de ar para uma pele mais sequinha e protegida.",
+        "price": 89.9,
+        "requires_prescription": false,
+        "category": "Mãe e Bebê",
+        "subcategory": "Fraldas",
+        "photo": "https://placehold.co/400x400?text=Fralda"
+    }
+]

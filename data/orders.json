@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1000,
+        "date": "12\/02\/2026 16:50:28",
+        "items": [
+            {
+                "id": 2,
+                "name": "Amoxicilina 875mg",
+                "price": 45.9,
+                "qty": 1
+            },
+            {
+                "id": 3,
+                "name": "Vitamin C Cápsulas",
+                "price": 12,
+                "qty": 1
+            }
+        ],
+        "total": 57.9,
+        "payment": "Dinheiro",
+        "operator": "Gerente Geral",
+        "origin": "PDV Balcão",
+        "status": "Concluído"
+    },
+    {
+        "id": 1001,
+        "date": "12\/02\/2026 17:05:23",
+        "items": [
+            {
+                "id": 2,
+                "name": "Amoxicilina 875mg",
+                "price": 45.9,
+                "qty": 1,
+                "requires_prescription": true
+            }
+        ],
+        "total": 73.49,
+        "payment": "Cartão de Débito",
+        "origin": "Loja Online",
+        "prescription_image": null,
+        "status": "Concluído",
+        "address": "Rua Professor Sílvio Elia, 351 (Bloco 1, 504) - Vargem Pequena, Rio de Janeiro-RJ | CEP: 22783235"
+    },
+    {
+        "id": 1002,
+        "date": "2026-02-12 17:11:33",
+        "items": [
+            {
+                "id": 3,
+                "name": "Vitamin C Cápsulas",
+                "price": 12,
+                "qty": 1
+            },
+            {
+                "id": 4,
+                "name": "Paracetamol 750mg",
+                "price": 8.9,
+                "qty": 1
+            }
+        ],
+        "total": 20.9,
+        "payments": {
+            "dinheiro": 30,
+            "pix": 0,
+            "debito": 0,
+            "credito": 0
+        },
+        "change": 9.100000000000001,
+        "operator": "Gerente Geral",
+        "origin": "PDV Balcão",
+        "status": "Concluído"
+    },
+    {
+        "id": 1003,
+        "date": "12\/02\/2026 17:16:31",
+        "items": [
+            {
+                "id": 2,
+                "name": "Amoxicilina 875mg",
+                "price": 45.9,
+                "qty": 1,
+                "requires_prescription": true
+            }
+        ],
+        "total": 62.11,
+        "payment": "Dinheiro",
+        "origin": "Loja Online",
+        "prescription_image": "uploads\/recipes\/REC_1770916591_957.jpg",
+        "status": "Pendente",
+        "address": "Professor Raymundo Muniz de Aragão, 100 (Sunplaza, Bloco 1, 509) - Barra da Tijuca, Rio de Janeiro- | CEP: "
+    },
+    {
+        "id": 1004,
+        "date": "2026-02-12 17:34:10",
+        "items": [
+            {
+                "id": 1,
+                "name": "Dipirona 500mg",
+                "price": 5.5,
+                "qty": 2,
+                "requires_prescription": false,
+                "photo": "https:\/\/pills-low.com\/wp-content\/uploads\/2021\/04\/dipirona.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Amoxicilina 875mg",
+                "price": 45.9,
+                "qty": 1,
+                "requires_prescription": true,
+                "photo": "https:\/\/placehold.co\/400x400?text=Amoxicilina"
+            },
+            {
+                "id": 5,
+                "name": "Fralda Pâmper M",
+                "price": 89.9,
+                "qty": 2,
+                "requires_prescription": false,
+                "photo": "https:\/\/placehold.co\/400x400?text=Fralda"
+            }
+        ],
+        "total": 264.28999999999996,
+        "payment": "Dinheiro",
+        "origin": "Loja Online",
+        "prescription_image": null,
+        "status": "Saiu para Entrega",
+        "address": "Rua Professor Sílvio Elia, Vargem Pequena - Rio de Janeiro, Nº 351"
+    }
+]
